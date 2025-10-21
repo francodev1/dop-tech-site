@@ -22,12 +22,17 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-       <span className="font-extrabold text-white">Dove of Peace</span> é a revolução do agora: 
-onde a <span className="font-extrabold text-white">automação</span> e a 
-<span className="font-extrabold text-white"> inteligência artificial</span> trabalham por você.  
-Liberte seu tempo, reduza erros e leve seu negócio a um novo nível de tranquilidade.  
-Essa é a verdadeira <span className="font-extrabold text-white">paz tecnológica</span> que transforma ideias em resultados.  
-Vamos juntos <span className="font-extrabold text-white">explorar</span> esse futuro? 🚀
+       <span className="font-extrabold text-white">Dove of Peace Tech</span> é uma empresa cristã que 
+       acredita que <span className="font-extrabold text-white">tecnologia</span> deve trazer 
+       <span className="font-extrabold text-white"> paz</span>, não caos. 🕊️<br /><br />
+       
+       Desenvolvemos soluções de <span className="font-extrabold text-white">automação e IA</span> que 
+       eliminam trabalho repetitivo, desafogam empresários e liberam tempo para o que realmente importa.
+       <br /><br />
+       
+       Essa é a verdadeira <span className="font-extrabold text-white">paz tecnológica</span>: 
+       quando sistemas trabalham por você, e você pode focar em crescer com tranquilidade. 
+       Vamos juntos <span className="font-extrabold text-white">transformar</span> seu negócio? 🚀
 
       </motion.p>
 
